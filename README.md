@@ -1,6 +1,7 @@
 ## Hey there, I'm Grend.
 
-Indie game developer and modder.  You can check out some of my open source projects here, or you can find me elsewhere on the web:
+I'm currently spending a lot of my free time modding, but I'd like to get back to indie game development soon. 🤞<br/><br/>
+You can check out some of my open source projects here, or you can find me elsewhere on the web:
 <br/><br/><br/>
 &nbsp;🏠&nbsp;[Website](https://anthonyhilyard.com)<br/><br/>
 &nbsp;<img src="https://anthonyhilyard.com/wp-content/uploads/2021/10/curseforgeicon.png" width="22" valign="middle">&nbsp;[CurseForge](https://www.curseforge.com/members/grend_g/projects)<br/><br/>
