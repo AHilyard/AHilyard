@@ -2,7 +2,7 @@
 
 I'm currently doing indie game development for a small studio and spending a lot of my free time on modding and personal projects.<br/><br/>
 
-<strong>Note that I am not currently accepting pull requests on any repositories. However, if you'd discovered a bug or want to request a new feature, I'd be happy to implement this myself, just raise an issue.</strong><br/><br/>
+<strong>Note that I am not currently accepting pull requests on any repositories. However, if you've discovered a bug or want to request a new feature, I'll be happy to implement this myself.  Just raise an issue.</strong><br/><br/>
 You can check out some of my open source projects here, or you can find me elsewhere on the web:
 <br/><br/><br/>
 &nbsp;🏠&nbsp;[Website](https://anthonyhilyard.com)<br/><br/>
